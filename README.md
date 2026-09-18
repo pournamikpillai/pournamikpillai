@@ -209,8 +209,6 @@ I'm always interested in connecting with developers, designers and technology pr
 
 **LinkedIn:** https://www.linkedin.com/in/pournamikpillai/
 
-**Portfolio:** [Add your Portfolio URL]
-
 **Email:** pournamikp@gmail.com
 
 ---
