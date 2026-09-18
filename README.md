@@ -2,7 +2,7 @@
 
 ### WordPress & SharePoint Developer | React | TypeScript | Frontend Development
 
-I'm a web developer with **10+ years of experience** building and maintaining web solutions, with a strong background in **WordPress, Elementor, PHP, HTML, CSS and JavaScript**.
+I'm a web developer with **13+ years of experience** building and maintaining web solutions, with a strong background in **WordPress, Elementor, PHP, HTML, CSS and JavaScript**.
 
 Currently, I'm expanding my expertise into **React, TypeScript and SharePoint Framework (SPFx)**, with a focus on building modern, scalable and user-friendly frontend solutions.
 
@@ -10,7 +10,7 @@ Currently, I'm expanding my expertise into **React, TypeScript and SharePoint Fr
 
 ## 👩‍💻 About Me
 
-* 💼 10+ years of experience in **WordPress & Web Development**
+* 💼 13+ years of experience in **WordPress & Web Development**
 * 🌐 Experienced in **WordPress, Elementor, PHP, HTML, CSS & JavaScript**
 * 🏢 Working with **SharePoint & SPFx**
 * ⚛️ Exploring **React & TypeScript**
@@ -64,11 +64,9 @@ Currently, I'm expanding my expertise into **React, TypeScript and SharePoint Fr
 
 ### SharePoint
 
-* SharePoint Online
 * SharePoint Out-of-the-Box solutions
 * SharePoint Framework (SPFx)
 * React-based SPFx solutions
-* Microsoft Graph / REST API
 * SharePoint Lists & Libraries
 * JSON view formatting
 * Modern SharePoint pages
@@ -80,7 +78,6 @@ Currently expanding my frontend expertise through:
 
 * React components
 * TypeScript
-* React hooks
 * API integration
 * Reusable UI components
 * State management
@@ -179,7 +176,6 @@ WordPress
           ▼
 SharePoint
    │
-   ├── SharePoint Online
    ├── OOTB Solutions
    ├── SPFx
    └── React + TypeScript
@@ -211,11 +207,11 @@ Modern Frontend
 
 I'm always interested in connecting with developers, designers and technology professionals working on modern web development.
 
-**LinkedIn:** [Add your LinkedIn URL]
+**LinkedIn:** https://www.linkedin.com/in/pournamikpillai/
 
 **Portfolio:** [Add your Portfolio URL]
 
-**Email:** [Add your Email]
+**Email:** pournamikp@gmail.com
 
 ---
 
